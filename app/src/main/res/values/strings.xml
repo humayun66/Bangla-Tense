@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">Tense</string>
+    <string name="first_name">Tense</string>
+    <string name="second">Present Tense</string>
+    <string name="third">Past Tense</string>
+    <string name="forth">Future Tense</string>
+    <string name="tense_description"> Tense :  “Tense” শব্দের বাংলা অর্থ কাল বা সময় । সঠিকভাবে  ইংরেজী লেখার প্রধান শর্ত হলো  Tense .  তাই  Tense –কে ইংরেজী ভাষার প্রান  “Soul of English language” বলতে পারি । বাক্য গঠন , পরিবর্তন বা সংযোজন-সব ক্ষেত্রেই Tense – এর প্রয়োজন অনস্বীকার্য ।
+                       \n\nকোন কার্য সম্পাদনের সময় বা কালকে  Tense  বলে ।  \n\nTense প্রধানতঃ  তিন প্রকার ।
+
+                \n
+                \n
+                যথা –</string>
+    <string name="tense_type">
+        1. Present Tense\n
+        2. Past Tense\n
+        3. Future Tense\n</string>
+
+
+    <string name="present_tense">Present tense  :  Verb এর কার্য যখন বর্তমান সময় কে নির্দেশ করে তখন তাকে Present Tense বলে ।
+    \n  \nExample :</string>
+    <string name="p_t_exam">
+               He sings a song.\n
+               The boy is playing football.</string>
+    <string name="p_t_type">Present Tense আবার চার প্রকার ।\n\n যথাঃ </string>
+
+    <string name="p_t_Inde">1. Present Indefinite Tense </string>
+    <string name="p_T_Conti">2. Present Continuous Tense </string>
+    <string name="P_t_perfect">3. Present Perfect Tense </string>
+    <string name="P_t__perfect_conti">4. Present Perfect Continuous Tense </string>
+
+
+    <string name="past_tense">Past Tense : Verb এর কার্য যখন অতীত সময়কে নির্দেশ করে তখন তাকে Past Tense বলে ।
+    \n\n Example : </string>
+
+    <string name="past_tense_exam">She sang a song.\n
+                                   The boy was playing football.</string>
+
+    <string name="past_tense_type">Present Tense আবার চার প্রকার ।\n\n যথাঃ </string>
+
+    <string name="past_Indef">1. Present Indefinite</string>
+    <string name="past_conti"></string>
+
+    <string name="f_tense">Future Tense : Verb এর কার্য ভবিষ্যৎ সময়কে নির্দেশ করে তাকে  Future Tense বলে ।
+    \n\n Example : </string>
+    <string name="f_tense_exam">She will sing a song.\n
+                                The boy will be playing football. </string>
+    <string name="f_tense_type">Future Tense আবার চার প্রকার । \n\n যথাঃ </string>
+    <string name="f_inde">1. Future Indefinite</string>
+    <string name="ff"></string>
+    <string name="pre_indef_t">Present Indefinite Tense</string>
+    <string name="pre_indef_desc">Present Indefinite Tense : যে Tense দ্বারা বর্তমানে কোন কাজ করা, অভ্যাস বা চিরসত্য বুঝায় তাকে Present Indefinite Tense বলে । </string>
+    <string name="pre_indef_desc1">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে করি, কর, করিস, করে, করেন, যাই, যাও, যান, যাস, পড়, পড়ে, পড়েন, পড়িস, ঘুমায়, ঘুমাও, ঘুমান- ইত্যাদি থাকে ।
+                                   \n\n(i)  সে ঘুমায় ।
+                                   \n  (ii) তিনি একটি বই পড়েন ।
+</string>
+    <string name="pre_indef_desc2">গঠন : Subject এর পর মূল Verb বসে । Subject Third Person, Singular Number হলে Verb এর শেষে ‘s’ বা ‘es’ যোগ হয় ।
+    \n\n Structure : Subject + Verb এর present form + Object + বাকী অংশ
+    \n\ Example : He reads a book. \n\n
+    Present Indefinite Tense এর ব্যবহার : \n\n
+    (i) চিরন্তনসত্য (Universal Truth) বুঝাতে – \n
+        → The sun rises in the east.\n\n
+        (ii) অভভাসগত কর্ম বুঝাতে – \n
+        →  He goes to bed at ten o’clock everyday.\n\n
+     (iii) ভবিষ্যতে কোন কাজ হবে বুঝাতে অনেক সময় এ Tense ব্যবহৃত হয় – \n
+        → Ramadan begins in the next month. \n\n
+        (iv) Often, usually, sometimes, always, occasionally, on Fridays, twice, every day, every weak ইত্যাদি শব্দ বা phrase এর সহিত –  \n
+        → Muslims go to mosque on Friday.\n\n
+        (v) অতীত কালের কাজ বর্তমানের কাজরুপে বুঝাতে – \n
+        → Humayun ascends the throne.\n\n
+        (vi) কোন বক্তা বা লেখকের উক্তি উদ্ধৃত করতে – \n
+        → Shakespeare says, “Life is a tale told by an idiot.”
+
+    </string>
+
+    <string name="pre_conti_tense">Present Continuous Tense</string>
+    <string name="pre_conti_tense2">Present Continuous Tense : যে Tense দ্বারা বর্তমান কালে কোন কাজ চলতেছে বুঝায় তাকে Present Continuous Tense বলে ।</string>
+    <string name="pre_conti_tense3">বাংলায় চিনবার উপায় :  বাংলা ক্রিয়ার শেষে তেছ, তেছি, তেছে, তেছেন, চ্ছ,চ্ছি, চ্ছে, চ্ছেন, ছি, ছ, ছেন এদের যে কোন একটি যোগ থাকে।
+                                    \n\n 1. আমি একটি বই পড়ছি ।  </string>
+    <string name="pre_conti_tense4">গঠনঃ  প্রথমে Subject বসে + Number ও Person অনুযায়ী “be Verb” (যথা – am, is, বা are) বসে + মূল Verb- এর শেষে ing বসে ।
+                                    \n\n Structure: Subject + am/is/are + মূল verb এর শেষে ing
+                                    \n\n Example : Refat is reading a book.
+    \n\n Present Continuous Tense এর ব্যবহার :
+    \n\n (i) ভবিষ্যৎ কালের অর্থ বুঝাতে কখনও কখনও Present Continuous Tense ব্যবহৃত হয় ।
+    \n Rafi is going to Chittagong tomorrow.
+    \n\n (ii) কোন কাজ পূর্বে শুরু হয়ে বর্তমান কালেও কিছু সময় ধরা চলা বুঝাতে Present Continuous Tense ব্যবহৃত হয় ।
+    \n Fahim is working for examination.</string>
+
+    <string name="pre_perf_tense">Present Perfect Tense</string>
+    <string name="pre_per_tense1">Present Perfect Tense : যে Tense দ্বারা কোন কাজ এইমাত্র শেষ হয়েছে কিন্তু তার ফল এখনও বর্তমান এরুপ অর্থ প্রকাশ করে তাকে Verb- এর  Present Perfect Tense বলে ।</string>
+    <string name="pre_per_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে য়াছো, য়াছি, য়াছে, য়াছেন, য়েছ, য়েছি, য়েছে, য়েছেন এদের যে কোন একটি যোগ থাকে ।
+                                \n\n আমি ভাত খাই ।
+                                  \n তিনি মাঠে গিয়েছেন ।
+</string>
+    <string name="pre_per_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Number ও Person অনুযায়ী have/has + Verb এর Past Participle form বসে + ……….
+                                 \n\n Structure : Subject +have/has + verb এর past Participle + ………
+                                  \n\n Example : I have done the work.
+</string>
+    <string name="pre_per_tense4">Present Perfect Tense এর ব্যবহার : \n\n
+    (i) অতীত ঘটনার ফল এখনও বর্তমান রয়েছে এমন বুঝাতে Present Perfect Tense ব্যবহৃত হয় ।\n
+    Maulana Bhasani has done a lot for the people.\n\n
+    (ii) অতীতে অনেক সময় ধরে কোন কাজ হয়েছে এবং এখনও সে সময়ের সমাপ্তি হয়নি এরুপ অর্থ  প্রকাশ করতে Present Perfect Tense হয় \n
+    They  have lived at this house five years.\n\n
+    (iii) ব্যাপক সময় (Period of time) এর পূর্বে for এবং নির্দোষ সময় (Point of time) এর পূর্বে Since বসে এবং ইহাদের পূর্ববর্তী Verb এর Present Perfect Tense হয় ।\n
+    He has been ill for two hours.\n\n
+    (iv) কোন Sentence-এ Just, Just now, already, yet, never, ever, lately, recently ইত্যাদি থাকলে Present Perfect Tense হয় । \n
+He has already written the letter.
+</string>
+
+
+    <string name="pre_per_con_tense">Present Perfect Continuous Tense</string>
+    <string name="pre_per_con_tense1">Present Perfect Continuous Tense : যে Tense দ্বারা কোন কাজ পূর্বে শুরু হয়ে বর্তমানেও চলতেছে বুঝায় তাকে Present Perfect Continuous Tense বলে । </string>
+    <string name="pre_per_con_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে তেছ, তেছি, তেছে, তেছেন, চ্ছ, চ্ছি, চ্ছে, চ্ছেন, ছ,ছি,ছে, ছেন, এদের যে কোন একটির উল্লেখ থাকে এবং একটি সময়ের উল্লেখ থাকে ।
+\nতাহারা ২ ঘণ্টা যাবৎ ফুটবল খেলছে ।
+\nআমি ১ ঘণ্টা যাবৎ পড়ছি ।
+</string>
+    <string name="pre_per_con_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Numnber ও Person অনুযায়ী has been/have been বসে + মূল Verb এর শেষে ing বসে + ……
+
+\n\n Structure : Subject +have been/ has been +  মূল Verb এর শেষে Ing + …….
+\n\n Example : Palash has been suffering from fever for ten days.
+</string>
+
+    <string name="past_indef_tense1">Past Indefinite Tense </string>
+    <string name="past_indef_tense2">Past Indefinite Tense : যে Tense দ্বারা অতীতে কোন কাজ করা হয়েছিল বুঝায় তাকে    Past Indefinite Tense বলে ।</string>
+    <string name="past_indef_tense3">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে ছিল, ছিলাম, ছিলে, ছিলেন, ল, লাম, লে, লেন, ত, তাম, তে, তেন, এদের কোন একটি থাকলে Past Indefinite Tense হয় । \n\n
+        → সে একটি বই পড়িল ।\n
+→ তিনি চিঠিটি লিখিলেন । \n
+ → আমি তাকে চিনতাম ।
+</string>
+    <string name="past_indef_tense4">গঠনপ্রণালী : প্রথমে Subject বসে + Verb এর Past form বসে + …….\n\n
+    Structure : Subject + Verb এর Past form.\n
+    → He went home yesterday .\n\n
+    Past Indefinite Tense এর ব্যবহার : \n\n
+(i) অতীত কালের কোন অভ্যাসগত কর্ম বুঝাতে Past Indefinite Tense ব্যবহৃত হয় ।\n
+→ I used to get up early in the morning. \n\n
+(ii) ভদ্রতা, বিনয়, বা অনুমোদন বুঝাতে Past Indefinite Tense ব্যবহৃত হয় ।\n
+→ Would you please lend me some money ?\n\n
+(iii) কোন Sentence- এ It is time, it is high time, Wish ইত্যাদি থাকলে  Past Indefinite Tense হয় । \n
+→  It is high time we left this place.
+</string>
+
+
+    <string name="past_conti_tense">Past Continuous Tense</string>
+    <string name="past_conti_tense1">Past Continuous Tense : যে Tense কোন কাজ অতীতে কতক সময় ধরে চলতেছিল বুঝায় তাকে  Past Continuous Tense বলে । </string>
+    <string name="past_cont_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে তেছিল, তেছিলাম, তেছিলে, তেছিলেন, চ্ছিল, চ্ছিলাম, চ্ছিলে, চ্ছিলেন, ছিল, ছিলাম, ছিলে, ছিলেন – এদের কোন একটি থাকলে Past Continuous Tense হয় ।</string>
+    <string name="past_cont_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Number ও Person অনুযায়ী was/were বসে + মূল Verb এর শেষে ing ব্যবহৃত হয় + বাকি অংশ (যদি থাকে) বসে ।\n\n
+
+Structure : subject + was/were + মূল verb এর শেষে ing + ……..\n\n
+
+→ The boys were playing . \n\n
+ Past Continuous Tense এর ব্যবহার :\n\n 
+
+(i) অতীতে একটি কাজ চলাকালীন সময়ে যদি আর একটি কাজ সম্পাদিত হয় তবে যে কাজটি চলতেছিল সেটি বুঝাতে Past Continuous Tense এবং অন্যটি Past Indefinite Tense হয় ।\n\n
+→ I was watching TV when the children came home.\n\n 
+(ii) অতীতকালের দুটি কাজ যদি একই সাথে চলতেছিল বুঝায় তবে দুটিরই Past Continuous Tense হয় ।\n
+→ I was reading a book while my sister was writing a letter.\n\n
+        </string>
+    <string name="past_perf_tense1">Past Perfect Tense</string>
+
+    <string name="past_perf_tense">Past Perfect Tense : অতীত কালের দুটি কাজের মধ্যে যেটি অপেক্ষাকৃত পূর্বে সম্পন্ন হয়েছিল সেটি Past Perfect Tense এবং অন্যটির Past Indefinite Tense হয় ।</string>
+
+    <string name="past_perf_tense2"> গঠনপ্রণালী : প্রথমে Subject বসে + Had বসে + মুল Verb এর Past participle বসে + বাকি অংশ বসে (যদি থাকে) । \n\n
+Structure : Subject + had + মূল Verb এর Past participle + …….\n\n
+→ I had reached the college before the examination began. \n
+</string>
+    <string name="past_perf_tense3">Past Perfect Tense এর ব্যবহার : \n\n
+(i) That দ্বারা অতীতকালের দুটি কার্য যুক্ত হলে সাধারণতঃ that এর পরবর্তী Verb এর Past Perfect Tense হয় ।\n
+→ The boy said that he had done his home work .\n\n
+(ii) No sooner …… than, scarcely ……. When , hardly ….before দ্বারা দুটি Clause যুক্ত হলে প্রথম Clause টির Past Perfect Tense হয় ।\n
+→ No sooner had he seen the police than he ran away .   \n\n
+(iii) সাধারণতঃ before এর পূর্বে এবং after এর পর Past Perfect Tense হয় ।\n
+→ the bell had rung before I reached the college. \n
+→ the bell rang after I had reached the college.\n\n
+(iv) অতীতের দুটি কাজ একসাথে সম্পন্ন হয়েছিল বুঝালে when এর পরে Past Perfect Tense ব্যবহৃত হয় ।\n
+→ When he had told us the the story, we listened to him carefully. \n\n
+(v) অতীতের দুটি কাজের মধ্যে প্রথম কাজটি হয়ে যাবার পর দ্বিতীয় কাজটি শুরু হয়েছিল বুঝালে till, until, before, as soon as, when ইত্যাদি যুক্ত Clause টি  Past Perfect Tense এ ব্যবহৃত হয় ।\n
+→ As soon as they had finished the work , they went home .
+</string>
+
+    <string name="past_per_cont_tense">Past Perfect Continuous Tense</string>
+    <string name="past_per_cont_tense1">Past Perfect Continuous Tense : অতীতকালের সংঘটিত দুটি কাজের মধ্যে অপেক্ষাকৃত পূর্বের কাজটি দীর্ঘসময় ধরে চলতেছিল বুঝালে Verb-এর Past Perfect Continuous Tense হয় এবং অপরটি Past Indefinite হয় । </string>
+    <string name="past_per_cont_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে তেছিল, তেছিলাম, তেছিলে, তেছিলেন, চ্ছিল, চ্ছিলাম চ্ছিলে, চ্ছিলেন এদের যেকোন একটির উল্লেখ থাকে এবং অতীতের একটি সময়ের উল্লেখ থাকে ।</string>
+    <string name="past_per_cont_tense3">Structure : Subject +had been + মূল verb এর সাথে ing + বাকি অংশ । \n\n
+→ I had been reading for two hours .
+</string>
+
+    <string name="future_inde_tense">Future Indefinite Tense</string>
+    <string name="future_inde_tense1">Future Indefinite Tense : Verb এর কোন কাজ ভবিষ্যতে সংঘটিত হবে বুঝালে Verb এর Future Indefinite Tense হয় । </string>
+    <string name="future_inde_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে বে, ব, বা, বেন, - এদের যেকোন একটি থাকলে  Future Indefinite Tense হয় ।\n\n
+    → আমি বইটি পড়িব ।\n
+        →  তাহারা কাজটি করিবে  ।
+</string>
+    <string name="future_inde_tense3">গঠনপ্রণালী :  প্রথমে Subject বসে + Number ও Person অনুযায়ী shall/will বসে + Verb এর Present form বসে + বাকী অংশ বসে (যদি থাকে) ।\n\n
+    Structure : Subject + will/shall + Verb এর Present form + ……\n\n
+    Future Indefinite Tense এর  ব্যবহার : \n\n
+    (i) নিয়মিত বা অভ্যাসগত নয় বরং মাঝে মাঝে সংঘটিত হয় এমন ক্ষেত্রে Future Indefinite Tense ব্যবহৃত হয় ।\n\n
+
+(ii) ভবিষ্যতে কোন কাজ বা অবস্থাকে প্রভাবিত করে এমন অনিচ্ছাকৃত ঘটনা বুঝাতে Future Indefinite Tense ব্যবহৃত হয় ।
+</string>
+
+    <string name="future_cont_tense">Future Continuous Tense</string>
+    <string name="future_cont_tense1">Future Continuous Tense : ভবিষ্যৎ কালে কোন কাজ সংঘটিত হয়ে কিছু সময় চলতে থাকবে বুঝালে Verb এর Future Continuous Tense হয় । </string>
+    <string name="future_cont_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে তে থাকিব , তে থাকিবা , তে থাকিবে, তে থাকিবেন- এদের যেকোন একটি থাকলে Future Continuous Tense হয় ।\n\n
+→ আমি বইটি পড়িতে থাকিব ।\n
+→ তাহারা মাঠে ফুটবল খেলিতে থাকিবে ।
+</string>
+    <string name="future_cont_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Number ও Person অনুযায়ী will be/ shall be+ মূল Verb  এর শেষে ing বসে + বাকী অংশ বসে (যদি থাকে) । \n\n
+
+Structure : Subject + will be / shall be + Verb এর শেষে ing + …..\n\n
+
+
+Future Continuous Tense এর ব্যবহার :\n\n
+(i) Verb এর কাজ ভবিষ্যতের পুরো সময়ের সবটা ধরে চলতে বুঝাতে Future Continuous Tense ব্যবহৃত হয় ।\n
+→ I shall be reading all morning\n\n
+(ii) ভবিষ্যতের কোন কাজ নির্দিষ্ট বা ব্যাপক সময়ের পূর্বে আরম্ভ হয়ে পরেও চলতে থাকবে বুঝাতে Future Continuous Tense ব্যবহৃত হয় । \n
+→ In a few minutes time, the chairman of the meeting will be arriving.\n\n
+
+
+</string>
+
+    <string name="future_perf_tense">Future Perfect Tense</string>
+    <string name="future_perf_tense1">Future Perfect Tense : ভবিষ্যতে কোন নির্দিষ্ট সময়ে কোন কাজ হয়ে থাকবে বুঝালে অথবা একটি কাজের পূর্বে অন্য একটি কাজ সম্পন্ন হবে বুঝালে, যে কাজটি পূর্বে হবে তার Future Perfect Tense হয় । </string>
+    <string name="future_perf_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে য়া থাকিব/থাকব, য়া থাকিবে/থাকবে/ য়া থাকিব/থাকবা, য়া থাকিবেন/ থাকবেন – এদের যে কোন একটি থাকলে Future Perfect Tense হয় । \n
+→  তিনি বইটি পড়ে থাকবেন ।
+</string>
+    <string name="future_perf_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Number ও Person অনুযায়ী shall have / will have বসে + মূল Verb এর Past Participle বসে । \n\n
+→ He will have reached home at 5 P.M.\n\n
+
+Future Perfect Tense এর ব্যবহার : \n\n
+(i) ভবিষ্যৎ কালের দুটি কাজের মধ্যে যে কাজটি অপেক্ষাকৃত পূর্বে শেষ হয়ে থাকবে এরুপ বুঝালে সেটি Future Perfect Tense এবং বাকী কাজটি Present Indefinite/Future Indefinite Tense হয় । \n
+→ I shall have finished the work before you come. \n\n
+(ii) কখনও কখনও ভবিষ্যতের সম্ভাবনা বুঝাতে Future Perfect Tense হয় । \n
+→ You will have got/gotten the letter .
+</string>
+
+    <string name="future_perf_cont_tense">Future Perfect Continuous Tense</string>
+    <string name="future_perf_cont_tense1">Future Perfect Continuous Tense :  ভবিষ্যতকালের কোন কাজ কোন নির্দিষ্ট সময় শেষ হওয়ার আগ চলতে থাকবে বুঝালে অথবা দুটি কাজের মধ্যে একটি কাজের পূর্বে অন্য একটি সম্পন্ন হবে বুঝালে Verb এর Future Perfect Continuous Tense হয় । </string>
+    <string name="future_perf_cont_tense2">বাংলায় চিনবার উপায় : বাংলা ক্রিয়ার শেষে তে থাকিব /থাকব, তে থাকিবে/থাকবে, তে থাকিবা/থাকবা, তে থাকিবেন/থাকবেন এদের যে কোন একটির উল্লেখ থাকবে এবং একটি সময়ের উল্লেখ থাকবে । \n\n
+→ আমি ১ ঘণ্টা যাবৎ পড়তে থাকব ।
+</string>
+
+    <string name="future_perf_cont_tense3">গঠনপ্রণালী : প্রথমে Subject বসে + Number ও Person অনুযায়ী Shall have been/Will have been বসে + মূল Verb এর শেষে ing বসে + বাকী অংশ (যদি থাকে) বসে । \n\n
+Structure : Subject + shall have been/will have been + মূল verb এর শেষে ing + ….
+</string>
+
+</resources>

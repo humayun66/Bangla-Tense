@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4"
+    android:background="#36598e"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Present">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="3.7"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/sub_rounded"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/second"
+            android:textSize="30sp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            />
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/present_tense"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/p_t_exam"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            android:gravity="center"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/p_t_type"
+            android:textSize="20sp"
+            android:textIsSelectable="true"
+            android:textColor="@color/black"
+            />
+
+        <Button
+            android:id="@+id/ptt1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="@string/pre_indef_t"
+            android:textSize="22sp"
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:background="#819FF7"/>
+        <Button
+            android:id="@+id/ptt2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="@string/pre_conti_tense"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:background="#819FF7"
+            android:layout_marginTop="5dp"/>
+        <Button
+            android:id="@+id/ptt3"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="@string/pre_perf_tense"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:background="#819FF7"
+            android:layout_marginTop="5dp"/>
+        <Button
+            android:id="@+id/ptt4"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="@string/pre_per_con_tense"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:layout_marginBottom="15dp"
+            android:background="#819FF7"
+            android:layout_marginTop="5dp"/>
+
+
+
+        </LinearLayout>
+        </ScrollView>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

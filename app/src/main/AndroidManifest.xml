@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.humayun.tense">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Present"
+            android:label="@string/second" />
+
+        <activity
+            android:name=".Past"
+            android:label="@string/third" />
+
+        <activity
+            android:name=".Future"
+            android:label="@string/forth" />
+
+        <activity android:name=".Tense" />
+
+        <activity android:name=".present_Indef_tense"
+            android:label="@string/pre_indef_t"/>
+
+        <activity android:name=".pres_contin_tense"
+            android:label="@string/pre_conti_tense"/>
+
+        <activity android:name=".Prese_perfect"
+            android:label="@string/pre_perf_tense"/>
+
+        <activity android:name=".Presen_perf_continu_tense"
+            android:label="@string/pre_per_con_tense"/>
+
+        <activity android:name=".Past_Inde_tense"
+            android:label="@string/past_indef_tense1"/>
+
+        <activity android:name=".Past_Cont_Ten"
+            android:label="@string/past_conti_tense"/>
+
+        <activity android:name=".Past_Perf_Ten"
+            android:label="@string/past_perf_tense1"/>
+
+        <activity android:name=".Past_Perf_Cont_T"
+            android:label="@string/past_per_cont_tense"/>
+
+        <activity android:name=".Future_Inde_T"
+            android:label="@string/future_inde_tense"/>
+
+        <activity android:name=".Future_Cont_T"
+            android:label="@string/future_cont_tense" />
+
+        <activity android:name=".Future_Perf_T"
+            android:label="@string/future_perf_tense"/>
+
+        <activity android:name=".Futute_Perf_Con_tense"
+            android:label="@string/future_perf_cont_tense"></activity>
+
+    </application>
+
+</manifest>

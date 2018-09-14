@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#36598e"
+    android:weightSum="4"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3.7"
+        android:weightSum="5"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/rounded">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/first_name"
+            android:textAllCaps="false"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="#F5A9BC" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/second"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="#F5A9BC"
+            />
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/third"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="#F5A9BC"/>
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/forth"
+            android:textAllCaps="false"
+            android:layout_marginTop="5dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="#F5A9BC"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
